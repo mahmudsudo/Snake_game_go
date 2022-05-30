@@ -1,4 +1,4 @@
-## packagemain #25: Snake game in Go using Ebiten
+## Snake game in Go using Ebiten
 
 [Ebiten](https://ebiten.org/) is an open source game library in Go for building 2D games that can be ran across multiple platforms. Ebiten games work on desktop, web browsers (through WebAssembly), as well as on Mobile and even on Nintendo Switch.
 
